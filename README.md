@@ -1,6 +1,6 @@
 # Code
 
-```Python
+```
 ValInt = 2
 ValFloat = 3.1416
 ValString = "Hola"
